@@ -8,12 +8,13 @@ $a=1;
 //frontend
 <html>
 	<body>
-	<h1><?php
+	<h2><?php
 	echo"<center> soujanya </center>"; 
 	echo $c;
 	if($c==5)
 	{
 		echo '<a target="_blank" href="index3.php">next</a>';
-	}?></h1>
+	}?></h2>
+        <h2>test change</h2>
 	</body>
 </html>
